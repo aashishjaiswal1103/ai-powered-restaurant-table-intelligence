@@ -1,0 +1,50 @@
+{
+  "camera_id": "CAM_01",
+  "resolution": [1920, 1080],
+  "tables": [
+    {
+      "table_id": "T01",
+      "display_name": "Table 1 (Window)",
+      "capacity": 4,
+      "polygon": [
+        [150, 400],
+        [450, 400],
+        [480, 700],
+        [120, 700]
+      ]
+    },
+    {
+      "table_id": "T02",
+      "display_name": "Table 2 (Center)",
+      "capacity": 4,
+      "polygon": [
+        [600, 400],
+        [900, 400],
+        [930, 700],
+        [570, 700]
+      ]
+    },
+    {
+      "table_id": "T03",
+      "display_name": "Table 3 (Aisle)",
+      "capacity": 2,
+      "polygon": [
+        [1050, 420],
+        [1300, 420],
+        [1320, 680],
+        [1030, 680]
+      ]
+    },
+    {
+      "table_id": "T04",
+      "display_name": "Table 4 (Booth)",
+      "capacity": 6,
+      "polygon": [
+        [1450, 380],
+        [1820, 380],
+        [1850, 750],
+        [1420, 750]
+      ]
+    }
+  ]
+}
